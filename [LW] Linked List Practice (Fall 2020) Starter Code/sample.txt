@@ -1,0 +1,7 @@
+
+
+if (hour1 < hour2) {
+    return true;
+} else if (min1 < min2 and hour1 == hour2) {
+    
+}
